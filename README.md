@@ -28,6 +28,10 @@ No script [pred_utils.py](https://github.com/luccapuru/lyric_classification_finc
 
 No script [server.py](https://github.com/luccapuru/lyric_classification_finch/blob/master/server.py), é onde se encontra a API, que é hosteada localmente. 
 
+## Modelos
+
+Os modelos treinados foram armazenados em arquivos .pkl, porém devido ao seu tamanho, eles não puderam ser colocados neste repositório. Para acessá-los, entrar no link do [Google Drive](https://drive.google.com/file/d/1gHWTviIxHivjKidKffPqvA0V2Llg8JqC/view?usp=sharing)
+
 ## Instruções para executar o projeto
 
 1. Para executar o projeto, executar o script server.py com:
