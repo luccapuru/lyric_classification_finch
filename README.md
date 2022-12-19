@@ -30,7 +30,7 @@ No script [server.py](https://github.com/luccapuru/lyric_classification_finch/bl
 
 ## Modelos
 
-Os modelos treinados foram armazenados em arquivos .pkl, porém devido ao seu tamanho, eles não puderam ser colocados neste repositório. Para acessá-los, entrar no link do [Google Drive](https://drive.google.com/file/d/1gHWTviIxHivjKidKffPqvA0V2Llg8JqC/view?usp=sharing)
+Os modelos treinados foram armazenados em arquivos .pkl, porém devido ao seu tamanho, eles não puderam ser colocados neste repositório. Para acessá-los, entrar no link do [Google Drive](https://drive.google.com/file/d/1gHWTviIxHivjKidKffPqvA0V2Llg8JqC/view?usp=sharing) e extrair a pasta "models" (contida no arquivo .zip) para dentro da pasta deste projeto. 
 
 ## Instruções para executar o projeto
 
